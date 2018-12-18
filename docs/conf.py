@@ -130,7 +130,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 #
 
 html_context = {
-  'display_github': False,
+  'display_github': True,
   'github_user': 'username',
   'github_repo': 'reponame',
   'github_version': 'master'
