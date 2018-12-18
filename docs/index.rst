@@ -3,17 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
- .. meta::
-	：github_url: https://github.com/SimmerChan/nlp_notes
+:github_url: https://github.com/SimmerChan/nlp_notes
 
-Welcome to NLP's documentation!
+
+NLP笔记
 ===============================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-
 
 
 Indices and tables

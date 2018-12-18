@@ -1,2 +1,2 @@
-# nlp_notes
+# NLP笔记
 Notes about some NLP topics 
