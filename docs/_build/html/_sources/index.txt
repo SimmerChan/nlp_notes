@@ -14,3 +14,8 @@ NLP相关的知识和技术比较庞杂。同时，由于搭上深度学习的�
 
 .. toctree::
    :maxdepth: 2
+   :caption: NLP基础技术
+
+.. toctree::
+   :maxdepth: 2
+   :caption: NLP应用场景
