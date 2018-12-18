@@ -6,7 +6,7 @@
 :github_url: https://github.com/SimmerChan/nlp_notes
 
 
-NLP笔记
+尘世美的NLP学习笔记
 ===============================
 
 Contents:
