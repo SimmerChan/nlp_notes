@@ -48,9 +48,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'NLP'
+project = u'NLP笔记'
 copyright = u'2018, NLP'
-author = u'NLP'
+author = u'SimmerChan'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -128,7 +128,16 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+
+html_context = {
+  'display_github': True,
+  'github_user': 'username',
+  'github_repo': 'reponame',
+  'github_version': 'master'
+}
+
+
+
 
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = []
